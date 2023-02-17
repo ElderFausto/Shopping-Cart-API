@@ -5,10 +5,10 @@
 This is a simple shopping cart project created with JavaScript Vanilla. 
 
 ## Features 🎫
-• Product visualization through the Fake Store API.
-• Adding products to the shopping cart.
-• Removing products from the shopping cart.
-• Calculation of the total price of the products in the shopping cart.
+1. Product visualization through the Fake Store API.
+2. Adding products to the shopping cart.
+3. Removing products from the shopping cart.
+4. Calculation of the total price of the products in the shopping cart.
 
 ## Used Technologies 🛠️
 - HTML
