@@ -5,10 +5,10 @@
 This is a simple shopping cart project created with JavaScript Vanilla. 
 
 ## Features 🎫
-• Product visualization through the Fake Store API
-• Adding products to the shopping cart
-• Removing products from the shopping cart
-• Calculation of the total price of the products in the shopping cart
+• Product visualization through the Fake Store API.
+• Adding products to the shopping cart.
+• Removing products from the shopping cart.
+• Calculation of the total price of the products in the shopping cart.
 
 ## Used Technologies 🛠️
 - HTML
@@ -16,8 +16,7 @@ This is a simple shopping cart project created with JavaScript Vanilla.
 - JavaScript
 
 ## Installation Instructions 📎
-1. Clone the repository using the command `git clone <https://github.com/ElderFausto/shoppingCartJSVanilla
->`.
+1. Clone the repository using the command git clone <code>https://github.com/ElderFausto/shoppingCartJSVanilla</code>.
 2. Open the index.html file in your browser.
 3. View the available products on the page.
 4. Add the desired products to the shopping cart by clicking the "Buy Product" button.
