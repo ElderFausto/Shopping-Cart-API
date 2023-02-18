@@ -24,7 +24,7 @@ This is a simple shopping cart project created with JavaScript Vanilla.
 6. To remove a product from the shopping cart, click the "Remove Product" button.
 
 ## API used
-Fake Store API https://fakestoreapi.com/
+FakeStoreAPI https://fakestoreapi.com/
 
 ## Contribution 🤝
 If you want to contribute to this project, submit a pull request with your suggestions and improvements.
